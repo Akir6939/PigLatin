@@ -1,5 +1,6 @@
 public void setup() 
 {
+	//commented out the standard piglatin, if you want to piglatin the regular one comment out the piglatinlines
 	/*String[] lines = loadStrings("words.txt");
 	System.out.println("there are " + lines.length + " lines");
 	for (int i = 0 ; i < lines.length; i++) 
